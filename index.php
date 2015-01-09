@@ -1,7 +1,7 @@
 <?php
 /**
 *
-*@copyright Copyright (c) 2014 IEAS Group
+*@copyright Copyright (c) 2014 - 2015 IEAS Group
 *@license　Adlaire License
 *
 */
