@@ -1,4 +1,4 @@
-Adlaire Platforms
+#Adlaire Platforms
 ========
 Adlaire Platform（以下、APと言う。）は、各機能を小さなモジュールとして設計しています。
 
@@ -6,10 +6,10 @@ Adlaire Platform（以下、APと言う。）は、各機能を小さなモジ�
 
 
 
-LICENSE
+#LICENSE
 ========
 Licensed under Adlaire License, see[LICENSE](https://github.com/win-k/AdlairePlatform/blob/master/Licenses/LICENSE_Ver.1.0)
 
-Copyright
+#Copyright
 ========
 Copyright (c) 2014 - 2015 IEAS Group
