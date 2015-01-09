@@ -1,7 +1,9 @@
 <?php
 /**
+*
 *@copyright Copyright (c) 2014 IEAS Group
 *@license　Adlaire License
+*
 */
 
 ob_start();
