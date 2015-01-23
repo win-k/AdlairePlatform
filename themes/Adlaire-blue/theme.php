@@ -38,7 +38,7 @@
 
 	<div class="clear"></div>
 	<footer>
-		<p><?php echo $c['copyright'] ." | $apcredit";?></p>
+		<p><?php echo $c['copyright'] ." | $lstatus | $apcredit";?></p>
 	</footer>
 </body>
 </html>
