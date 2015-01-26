@@ -19,6 +19,11 @@ Demo
 ========
 [Demo-AP](http://adlaire.org/Demo-AP/)
 
+AP開発共有サイト
+========
+AP開発共有サイトは、開発元であるIEAS Group & AIZMの関係者且つ、APのプロジェクトマネージャー向けです。
+[AP開発共有サイト]（https://sites.google.com/site/adlaireplatform/）
+
 Requirements
 ========
 - PHP 5.3
