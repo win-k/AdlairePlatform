@@ -14,16 +14,16 @@ html{
 
 body{
 	margin: 0;
-	color: #fff;
-	background: #eee;
+	color: #ffffff;
+	background: #ecf0f1;
 	padding: 0 0 80px 0;
 	font-family: Verdana;
 }
 
 a{
-	color: #fff;
+	color: #ffffff;
 	text-decoration: none;
-	border-bottom: 1px dotted #fff;
+	border-bottom: 1px dotted #ffffff;
 }
 
 h3{margin: 0;}
@@ -35,7 +35,7 @@ h3{margin: 0;}
 
 #nav{
 	width: 100%;
-	background: #1f2b33;
+	background: #00a968;
 }
 
 #nav h1{
@@ -58,29 +58,29 @@ h3{margin: 0;}
 #nav li a{
 	border: 0;
 	padding: 25px;
-	color: #777;
+	color: #ffffff;
 	display: block;
 	text-transform: uppercase;
 }
 
-#nav li a:hover{color: #fff;}
-#active a{color: #fff !important;}
+#nav li a:hover{color: #ffffff;}
+#active a{color: #ffffff !important;}
 
 #wrapper {
 	color: #444;
 	font-size: 15px;
-	background: #fff;
+	background: #ffffff;
 	line-height: 19px;
 }
 
 #wrapper a{
 	color: #444;
-	border-bottom: 1px dotted #444;
+	border-bottom: 1px dotted #ecf0f1;
 }
 
 #side {
 	font-size: 14px;
-	background: #1ab;
+	background: #3498db;
 }
 
 span.editText{
@@ -125,7 +125,7 @@ span.editText textarea{
 }
 
 .change select{
-	color: #fff;
+	color: #ffffff;
 	border: none;
 	padding: 10px;
 	background: #1ab;
@@ -137,7 +137,7 @@ footer{
 	width: 100%;
 	min-height: 60px;
 	position: absolute;
-	background: #1f2b33;
+	background: #00a968;
 }
 
 footer p{
