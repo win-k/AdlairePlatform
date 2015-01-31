@@ -2,6 +2,7 @@
 /**
 *
 *@copyright Copyright (c) 2014 - 2015 IEAS Group
+*@copyright Copyright (c) 2014 - 2015 AIZM
 *@license　Adlaire License
 *
 */
@@ -20,7 +21,7 @@ $d['page']['example'] = "This is an example page.<br /><br />\n\nTo add a new on
 $d['new_page']['admin'] = "Page <sb>".$rp."</b> created.<br /><br />\n\nClick here to start editing!";
 $d['new_page']['visitor'] = "Sorry, but <b>".$rp."</b> doesn't exist. :(";
 $d['default']['content'] = 'Click to edit!';
-$c['themeSelect'] = 'Adlaire-blue';
+$c['themeSelect'] = 'AP-Default';
 $c['menu'] = "Home<br />\nExample";
 $c['title'] = 'Website title';
 $c['subside'] = "<h3>ABOUT YOUR WEBSITE</h3><br />\n\n This content is static and is visible on all pages.";

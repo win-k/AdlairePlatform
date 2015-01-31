@@ -1,3 +1,12 @@
+@charset "utf-8";
+/* Default color デフォルトカラー
+#00a968 emerald green  エメラルドグリーン
+#3498db Blue Sky  ブルースカイ
+#ecf0f1 white rat ホワイトラット
+#ECEEF1 Silver Tree シルバーツリー
+#40AAEF Summer Sky サマースカイ
+#58BE89 Solitude ソリチュード
+----------------------------------------------------------- */
 html{
 	min-height: 100%;
 	position: relative;
